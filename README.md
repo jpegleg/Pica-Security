@@ -1,5 +1,5 @@
 # Pica-Security
-Run some security utility containers for small scale systems such as Raspberry Pi.
+Security utility containers for small scale systems such as Raspberry Pi.
 
 #### Links:
 
